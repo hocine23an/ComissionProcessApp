@@ -23,7 +23,11 @@ Built a new csv file, which contain out data (commissions fees)
 In order to implement the application, you can watch the tutorial video under the following link : https://drive.google.com/file/d/1Xr8sEJBZJFXRXw_HuMjsyUCT1ldogjkz/view?usp=sharing  or done the following steps:
 
  1- Download then decompress the file and place it in a specific location.
+ 
  2- Open the terminal window.
- 3- Access to the file via the next request : cd <file-name>
+ 
+ 3- Access to the file via the next request : cd AppProcess
+ 
  4- Launch the application via the local server by typing the following request : php artisan serve
+ 
  5- Open your web browser and put the following address: http://127.0.0.1:8000/ in the link bar then press enter.
