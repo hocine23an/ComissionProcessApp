@@ -3,7 +3,7 @@
 Description
 The "Process application" is developed by the following programming languages: HTML, CSS, Javascript, JQuery, PHP, by using Laravel framework - v 5.7.
 
-	Features
+Features
 1-	Load CSV file
 Loading the table data of transaction entries, which should be formatted as example.
 Not need to order line per date ASC, the application manage this function automatically.
@@ -20,7 +20,7 @@ Built a new csv file, which contain out data (commissions fees)
 
 Start using :
 
-In order to implement the application, the following steps should be followed:
+In order to implement the application, you can watch the tutorial video under the following link : https://drive.google.com/file/d/1Xr8sEJBZJFXRXw_HuMjsyUCT1ldogjkz/view?usp=sharing  or done the following steps:
 1- Download then decompress the file and place it in a specific location.
 2- Open the terminal window.
 3- Access to the file via the next request : cd <file-name>
