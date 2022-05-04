@@ -10,7 +10,7 @@ The "Process application" is developed by the following programming languages: H
  
  Not need to order line per date ASC, the application manage this function automatically.
  
-2-	Currency exchange rate : This window allows to update and/or add currencies.
+2-	Currency exchange rate : This window allows to update/add currencies.
 
 3-	Commissions settings : Manage the fees of commissions for all transactions.
 
