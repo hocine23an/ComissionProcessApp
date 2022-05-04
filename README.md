@@ -24,7 +24,7 @@ The "Process application" is developed by the following programming languages: H
 
 In order to implement the application, you can watch the tutorial video under the following link : https://drive.google.com/file/d/1Xr8sEJBZJFXRXw_HuMjsyUCT1ldogjkz/view?usp=sharing  or done the following steps:
 
- 1- Download then decompress the file and place it in a specific location.
+ 1- Download then decompress the folder "AppProcess" and place it in a specific location.
  
  2- Open the terminal window.
  
